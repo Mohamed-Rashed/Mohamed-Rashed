@@ -5,7 +5,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="200"/>
 
 - 🌱 I’m currently learning IOS & flutter
-- 📫 You can shoot me an email at amira.salah.zahran@gmail.com! I'll try to respond as soon as I can
+- 📫 You can shoot me an email at mohamedrashed88@gmail.com! I'll try to respond as soon as I can
 
 <img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 
