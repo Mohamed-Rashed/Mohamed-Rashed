@@ -7,9 +7,8 @@
 - 🌱 I’m currently learning IOS & flutter
 - 📫 You can shoot me an email at mohamedrashed88@gmail.com! I'll try to respond as soon as I can
 
-<img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-rashed" alt="mohamed-rashed" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/mohamed8rashed" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed8rashed?logo=twitter&style=for-the-badge" alt="mohamed8rashed" /></a> </p>
 
